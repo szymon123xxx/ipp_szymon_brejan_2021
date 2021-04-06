@@ -6,3 +6,22 @@ Do następnego raportu planuje stworzyć możliwość rejestrowania użytkownika
 
 Aktualny wygląd:
 ![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/rap1.png)
+
+# Raport II
+Do tej pory utworzyłem możliwość rejestracji użytkownika oraz jego logowanie. Po zalogowaniu się użytkownika osoba widzi jedynie linki dla niego przeznaczone m.in 'Profil' oraz 'Logout'. Po wciśnieciu Profilu narazie wyświetlana jest jedynie nazwa użytkownika natomiast po wciśnięciu 'Logout' jesteśmy wylogowywani oraz ukazują się nam możliwości logowania , rejestrowania oraz powrotu do głownej strony. Do następnego raportu mam zamiar wprwoadzić możliwość zarządzania profilem tzn. użytkownik będzie mógł zamieścić zdjęcie profilowe oraz będą wyświetlane jego dane. Kolejną rzeczą którą wprowadzę będzie możliwość dodawania filmów przez użytkowników. 
+
+Wygląd rejestracji:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/rap2....png)
+
+Wygląd logowania:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/rap2.png)
+
+Wygląd wylogowania:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/rap2...png)
+
+Wygląd strony głownej:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/rap2..png)
+
+
+
+
