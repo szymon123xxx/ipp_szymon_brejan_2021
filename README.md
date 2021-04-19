@@ -22,6 +22,14 @@ Wygląd wylogowania:
 Wygląd strony głownej:
 ![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/rap2..png)
 
+# Raport III
+Do tej pory utworzyłem możliwość zarządzania profilem przez użytkownika, a w tym możliwość zmiany zdjęcia profilowego, nazwy użytkownika oraz maila. Ponadto jego dane są wyświetlane w sekcji profil. Dodałem także możliwość uplodowania filmów przez osoby trzecie, a nie tylko admina. Do następnego raportu mam zamiar zrobić całe GUI.
+
+Wygląd profilu:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/raport3.png)
+
+Wygląd uplodowania filmów:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/raport3_.png)
 
 
 
