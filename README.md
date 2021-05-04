@@ -33,6 +33,7 @@ Wygląd uplodowania filmów:
 
 # Raport IV
 Do tej poru utworzyłem GUI projektu.
+
 Wygląd profilu:
 ![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/raportIV3.png)
 
