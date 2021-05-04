@@ -1,0 +1,14 @@
+{% extends 'films/base.html' %}
+{% block content %}
+    <div class="container">
+        {% for x in movies %}
+            <h3>{{ x.title }}</h3>
+            <img class="rounded-circle article-img" width="200px" height="200px" style="border: 1px solid black; margin-top: -450px" src="{{ x.author.profile.image.url }}">
+            <video width="600" height="340" controls="controls">
+                <source src="{{ x.video_file.url }}" type="video/mp4">
+            </video>
+            <p style="padding: 2px">Description: {{ x.description }}</p>
+            <p style="padding: 2px">Uploaded: {{ x.date }}</p>
+        {% endfor %}
+    </div>
+{% endblock content %}

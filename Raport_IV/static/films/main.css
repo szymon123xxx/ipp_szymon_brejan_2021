@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin-top: 0;
+    background: #e5e7e1;
+}
+.navbar {
+    background: #272f23;
+}
+.nav-link,
+.navbar-brand {
+    color: #f6f5f5;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #3f01fe;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 20px 40px;
+  border: 1px solid #100f0f;
+  border-radius: 3px;
+  margin-bottom: 20px;
+
+}
