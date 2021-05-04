@@ -31,5 +31,21 @@ Wygląd profilu:
 Wygląd uplodowania filmów:
 ![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/raport3_.png)
 
+# Raport IV
+Do tej poru utworzyłem GUI projektu.
+Wygląd profilu:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/raportIV3.png)
+
+Wygląd uplodowania filmów:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/raportIV4.png)
+
+Wygląd głownej strony:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/raportIV.png)
+
+Wygląd rejestracji:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/raportIV1.png)
+
+Wygląd logowania:
+![image](https://github.com/szymon123xxx/ipp_szymon_brejan_2021/blob/main/Zdjęcia/raportIV2.png)
 
 
